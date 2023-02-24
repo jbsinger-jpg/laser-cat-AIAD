@@ -1,4 +1,6 @@
 # laser-cat-AIAD
+This was apart of a three week project that I did at WSU. All of the coding was done on my end while others built the physical device that takes input from this code to move a laser via bipolar stepper motors.
+
 To configure the environment it is important that the following python packages are installed:
 pyserial
 pynput
